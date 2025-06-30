@@ -4,6 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
+[![Linkedin: Sebastião](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastião-maia-cerqueira/)](https://www.linkedin.com/in/sebastião-maia-cerqueira/)
+[![GitHub Sebastião](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/smammc)
+
+
 <!--
 **smammc/smammc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
